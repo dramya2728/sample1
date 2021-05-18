@@ -1,0 +1,8 @@
+app.js:  adding properties
+<Aproperties name="Ramya" age="25">She is beautiful</Aproperties>
+     <Aproperties name="Surya" age="30">
+      <p>This is children properties</p>
+      </Aproperties>
+      <Welcome name="Brother">
+        <p>happy journey</p>
+        </Welcome>  
